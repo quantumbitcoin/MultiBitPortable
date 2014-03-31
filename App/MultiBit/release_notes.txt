@@ -1,0 +1,10 @@
+MultiBit release notes.
+
+03 Mar 2014 Version 0.5.17
+Changes:
++ upgrade to bitcoinj 0.11.1
++ removal of "one satoshi" spam transactions
++ removal of MtGox exchange, default is now Bitstamp/ USD
++ update of localisation and checkpoints files.
+
+
